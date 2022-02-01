@@ -29,6 +29,7 @@
             android:layout_height="234dp"
             android:text="0"
             android:textAlignment="textEnd"
+            android:textAllCaps="false"
             android:textSize="96sp"
             android:textStyle="bold" />
 
@@ -77,7 +78,7 @@
                 android:textStyle="bold" />
 
             <Button
-                android:id="@+id/button14"
+                android:id="@+id/btdiv"
                 android:layout_width="106dp"
                 android:layout_height="100dp"
                 android:layout_weight="1"
@@ -130,7 +131,7 @@
                 android:textSize="24sp" />
 
             <Button
-                android:id="@+id/button17"
+                android:id="@+id/btmult"
                 android:layout_width="106dp"
                 android:layout_height="100dp"
                 android:layout_weight="1"
@@ -181,7 +182,7 @@
                 android:textSize="24sp" />
 
             <Button
-                android:id="@+id/button22"
+                android:id="@+id/btmin"
                 android:layout_width="106dp"
                 android:layout_height="100dp"
                 android:layout_weight="1"
@@ -271,7 +272,7 @@
                 android:textSize="24sp" />
 
             <Button
-                android:id="@+id/button29"
+                android:id="@+id/btt"
                 android:layout_width="106dp"
                 android:layout_height="100dp"
                 android:layout_weight="1"
